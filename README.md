@@ -13,3 +13,8 @@
 - 💬 Не самый общительный человек, по всем вопросам у нас [unfox_vk](https://vk.com/unfox_vk).
 - 📫 Найти меня можно в [VK](https://vk.com/gbowsky) и [Telegram](https://t.me/gbowsky).
 - 🎂 4 сентября 2020г. исполнится 17 лет.
+
+### Примеры работ
+
+<img align="left" src="https://sun1-98.userapi.com/D3AU6tyXuzA_m0OtAcW4F5jqwZr86e_VLujyaA/8hib6LtyKz8.jpg" alt="Выпускной :)" width=auto height=300px/>
+<img align="right" src="https://sun9-26.userapi.com/c857120/v857120478/1e62fa/KJRDiEnTr9w.jpg" alt="Выпускной :)" width=auto height=300px/>
