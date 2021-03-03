@@ -7,4 +7,4 @@ I'm frontend developer from St.Petersburg, Russia!.
 - 🐱  I love cats!
 - 🍕  At September 4th i'm going 18!
 
-[!gbowsky stats](https://github-readme-stats.vercel.app/api?username=gbowsky&count_private=true&show_icons=true&theme=prussian)
+![gbowsky stats](https://github-readme-stats.vercel.app/api?username=gbowsky&count_private=true&show_icons=true&theme=prussian)
