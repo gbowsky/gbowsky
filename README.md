@@ -1,8 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gbowsky" width=270px height=270px/>
-
 ### Hi, i'm @gbowsky!
 
-I'm frontend developer from St.Petersburg, Russia! Currently I'm working at [VK](https://vk.com/about). 
+I'm frontend developer from St.Petersburg, Russia!. 
 
 ---
 
@@ -14,3 +12,7 @@ I'm frontend developer from St.Petersburg, Russia! Currently I'm working at [VK]
 - 🍕  At September 4th i'm going 18!
 
 ---
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbowsky&count_private=true&show_icons=true" />
+</a>
