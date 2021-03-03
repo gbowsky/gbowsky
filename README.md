@@ -1,10 +1,7 @@
 ### Hi, i'm @gbowsky!
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gbowsky&count_private=true&show_icons=true&theme=prussian" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gbowsky&count_private=true&show_icons=true&theme=prussian" />
 
 I'm frontend developer from St.Petersburg, Russia!. 
-
 
 - 📱  Now I'm working on [VKUI](github.com/VKCOM/VKUI) and some projects from [unfoxteam](https://unfox.team).
 - 💻  I know React, JavaScript, TypeScript, Redux.
