@@ -5,7 +5,7 @@ I'm a frontend developer from St.Petersburg, Russia!.
 - 💻  I know React, JavaScript, TypeScript, Redux.
 - 📫  You can text me there: [VK](https://vk.com/gbowsky), [Telegram](https://t.me/gbowsky).
 - 🐱  I love cats!
-- 🍕  At September 4th i'm going 18!
+- 🍕  At September 4th i'm going 19!
 
 ---
 
