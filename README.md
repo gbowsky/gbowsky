@@ -9,7 +9,7 @@ I'm a frontend developer from St.Petersburg, Russia!.
 #### Articles
 - [Benchmarks of VKUI and other UI-libraries](https://habr.com/ru/company/vk/blog/558996/)
 #### 📊 Some nice metrics
-![Metrics](https://metrics.lecoq.io/gbowsky?template=classic&base.header=0&config.timezone=Europe%2FMoscow)
+![Metrics](https://github.com/gbowsky/gbowsky/blob/master/github-metrics.svg)
 
 ---
 
